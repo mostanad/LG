@@ -1,0 +1,7 @@
+*.o
+*.dep
+log_*
+log.*
+*~
+.vscode/
+platforms/
